@@ -114,7 +114,7 @@
     "node/prefer-promises/fs": "error",
     "node/no-path-concat": "error",
     "node/no-missing-import": ["error", {
-      "allowModules": ["speero-backend"]
+      "allowModules": ["project-name"]
     }],
     "node/no-unsupported-features/es-syntax": "off",
     "object-curly-spacing": ["error", "always"],
