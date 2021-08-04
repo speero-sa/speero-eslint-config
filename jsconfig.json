@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "module": "es2020",
+      "paths": {
+        "project-name/services": ["./services"],
+        "project-name/modules": ["./modules"],
+        "project-name/test": ["./test"],
+        "project-name/*": ["./*"],
+      }
+    },
+    "exclude": ["./node_modules/*", "./dist/*"]
+  }
